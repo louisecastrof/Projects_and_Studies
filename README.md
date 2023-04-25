@@ -1,2 +1,1 @@
-# PySpark
-Repo to practice PySpark coding
+# Projetos e Estudos :)
