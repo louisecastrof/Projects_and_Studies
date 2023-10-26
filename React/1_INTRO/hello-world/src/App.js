@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import FirstComponent from './components/FirstComponent';
 import AnotherComponent from './components/AnotherComponent';
+import Images from './components/Images';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <h1> Hello World React!</h1>
       <FirstComponent />
       < AnotherComponent />
+      <Images/ >
     </div>
   );
 }
